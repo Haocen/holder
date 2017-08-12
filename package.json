@@ -43,12 +43,10 @@
     "node-http-server": "^3.0.0",
     "trim": "0.0.1",
     "webdriverio": "^2.4.5",
-    "webpack-stream": "^2.1.1"
+    "webpack-stream": "^2.1.1",
+    "shaven": "^1.1.0"
   },
   "scripts": {
     "test": "node test/index"
-  },
-  "dependencies": {
-    "shaven": "^1.1.0"
   }
 }
